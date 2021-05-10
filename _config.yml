@@ -7,17 +7,34 @@ description: > # this means to ignore newlines until "show_excerpts:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
+destination: ./first-esse-ko/
+paginate: 20
+
+lang: ko
+
+baseurl: "/esse-ko"
+url: "https://deepseabolt.github.io"
+
+tipue_search:
+  include:
+    pages: false
+    collections: []
+  exclude:
+    files: [search.html, index.html, tags.html]
+    categories: []
+    tags: []
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%m월 %d일, %Y년"
 
   # generate social links in footer
   social_links:
     twitter: jekyllrb
-    github:  jekyll
+    github: jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -56,5 +73,6 @@ minima:
 theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
