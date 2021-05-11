@@ -12,8 +12,8 @@ paginate: 20
 
 lang: ko
 
-baseurl: "/first-esse-ko"
-url: "https://deepseabolt.github.io"
+baseurl: ""
+url: "https://ko.essepost.com/"
 
 tipue_search:
   include:
