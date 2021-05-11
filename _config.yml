@@ -7,12 +7,12 @@ description: > # this means to ignore newlines until "show_excerpts:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-destination: ./first-esse-ko/
+destination: ../first-esse-ko/
 paginate: 20
 
 lang: ko
 
-baseurl: "/esse-ko"
+baseurl: "/first-esse-ko"
 url: "https://deepseabolt.github.io"
 
 tipue_search:
@@ -29,7 +29,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%m월 %d일, %Y년"
+  date_format: "%-m월 %d일, %Y년"
 
   # generate social links in footer
   social_links:
