@@ -78,7 +78,7 @@ _출처 : https://www.sdcard.org/developers/sd-standard-overview/sd-family/_
 APC: A2
 용량:128GB
 읽기속도: 최대 170MB/s
-쓰기속도: 최대 90MB/s
+쓰기속도: 최대 90MB/s  
 <a href="https://coupa.ng/bZBBLe" target="_blank" referrerpolicy="unsafe-url"><img src="https://static.coupangcdn.com/image/affiliate/banner/8c464f4e7ca7f0c85cf2ace0501cc140@2x.jpg" alt="샌디스크 MicroSDXC Extreme Pro CLASS10 UHS-I U3 V30 A2 1133X 128GB 메모리카드" width="120" height="240"></a>
 
 ---
@@ -87,7 +87,7 @@ APC: A2
 
 APC: A1
 용량: 128GB
-읽기속도: 최대 100MB/s
+읽기속도: 최대 100MB/s  
 <a href="https://coupa.ng/bZBBic" target="_blank" referrerpolicy="unsafe-url"><img src="https://static.coupangcdn.com/image/affiliate/banner/b876743c3293a4be2578692d39197e15@2x.jpg" alt="샌디스크 울트라 마이크로SD 메모리카드 CLASS10 A1 QUAR, 128GB" width="120" height="240"></a>
 
 ---
@@ -119,7 +119,7 @@ MLC방식이 용량을 많이 뽑아낼 수 없어서 용량대비 제작 단가
 보증기간: 제한적 5년보증
 용량:128GB
 읽기속도: 최대 100MB/s
-쓰기속도: 최대 30MB/s
+쓰기속도: 최대 30MB/s  
 <a href="https://coupa.ng/bZBJ2q" target="_blank" referrerpolicy="unsafe-url"><img src="https://static.coupangcdn.com/image/affiliate/banner/9550b8e5c20ad1e9fc85e669e6da3912@2x.jpg" alt="삼성전자 MicroSDXC PRO Endurance 메모리카드 MB-MJ128GA/APC, 128GB" width="120" height="240"></a>
 
 ---
@@ -138,7 +138,7 @@ MLC방식이 용량을 많이 뽑아낼 수 없어서 용량대비 제작 단가
 
 용량: 125GB
 읽기속도: 최대 100MB/s
-쓰기속도: 최대 60BM/s
+쓰기속도: 최대 60BM/s  
 <a href="https://coupa.ng/bZCaZk" target="_blank" referrerpolicy="unsafe-url"><img src="https://static.coupangcdn.com/image/affiliate/banner/c784a9b2a8b90af23c5450f847f7bab2@2x.jpg" alt="샌디스크 닌텐도 스위치전용 마이크로 SD카드 SDSQXAO, 128GB" width="120" height="240"></a>
 
 ---
@@ -147,7 +147,7 @@ MLC방식이 용량을 많이 뽑아낼 수 없어서 용량대비 제작 단가
 
 용량: 256GB
 읽기속도: 최대 100MB/s
-쓰기속도: 최대 90MB/s
+쓰기속도: 최대 90MB/s  
 <a href="https://coupa.ng/bZCbHO" target="_blank" referrerpolicy="unsafe-url"><img src="https://static.coupangcdn.com/image/affiliate/banner/1ef0c17e9fdbe5bd93d516355cec0058@2x.jpg" alt="샌디스크 닌텐도 스위치 마이크로 SD카드 메모리카드 256, 256GB" width="120" height="240"></a>
 
 ---
@@ -172,7 +172,7 @@ FHD촬영
 
 용량: 32GB
 초당 최대 48MB의 속도로 분당 약 360장의 사진을 전송 가능
-FULL HD 화질의 동영상 저장 및 재생 지원
+FULL HD 화질의 동영상 저장 및 재생 지원  
 <a href="https://coupa.ng/bZCkEB" target="_blank" referrerpolicy="unsafe-url"><img src="https://static.coupangcdn.com/image/affiliate/banner/b906f8005a809001dbc8de00a3e95988@2x.jpg" alt="삼성전자 microSDHC EVO 메모리카드 class10, 32GB" width="120" height="240"></a>
 
 ---
@@ -182,7 +182,7 @@ FULL HD 화질의 동영상 저장 및 재생 지원
 ##### [앤젤버드 V60 AV PRO microSD 메모리카드](https://coupa.ng/bZCmEM){:target="\_blank"}
 
 용량: 256GB
-쓰기속도: 최대 160MB/s 지속 140MB/s (일반적인 microSD V60 카드보다 2.33배 이상 빠른 지속쓰기속도)
+쓰기속도: 최대 160MB/s 지속 140MB/s (일반적인 microSD V60 카드보다 2.33배 이상 빠른 지속쓰기속도)  
 <a href="https://coupa.ng/bZCmFj" target="_blank" referrerpolicy="unsafe-url"><img src="https://static.coupangcdn.com/image/affiliate/banner/502164e6bf3b8c18ada125a6ed0c8cad@2x.jpg" alt="앤젤버드 V60 AV PRO microSD 메모리카드, 256GB" width="120" height="240"></a>
 
 ---
@@ -192,7 +192,7 @@ FULL HD 화질의 동영상 저장 및 재생 지원
 ##### [앤젤버드 V90 PRO SD MK2 메모리카드](https://coupa.ng/bZG3cV){:target="\_blank"}
 
 용량: 256BG
-쓰기속도: 최대 280MB/s 지속 260MB/s
+쓰기속도: 최대 280MB/s 지속 260MB/s  
 <a href="https://coupa.ng/bZG3d0" target="_blank" referrerpolicy="unsafe-url"><img src="https://static.coupangcdn.com/image/affiliate/banner/c47c9c739c7eba767a3534448ee1efc9@2x.jpg" alt="앤젤버드 V90 PRO SD MK2 메모리카드, 256GB" width="120" height="240"></a>
 
 [SD카드에 대하여 알아보자](#){:target="\_blank"}
