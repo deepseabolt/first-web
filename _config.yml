@@ -9,8 +9,8 @@ paginate: 20
 
 lang: ko
 
-baseurl: ""
-url: "https://ko.essepost.com/"
+baseurl: "web-ko/"
+url: ""
 
 tipue_search:
   include:
