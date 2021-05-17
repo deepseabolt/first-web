@@ -204,4 +204,4 @@ FULL HD 화질의 동영상 저장 및 재생 지원
 쓰기속도: 최대 280MB/s 지속 260MB/s  
 <a href="https://coupa.ng/bZG3d0" target="_blank" referrerpolicy="unsafe-url"><img src="https://static.coupangcdn.com/image/affiliate/banner/c47c9c739c7eba767a3534448ee1efc9@2x.jpg" alt="앤젤버드 V90 PRO SD MK2 메모리카드, 256GB" width="120" height="240"></a>
 
-[SD카드에 대하여 알아보자](#){:target="\_blank"}
+링크 -> [SD카드 구매시 알아야 할 제대로 고르는 법](#){:target="\_blank"}
