@@ -12,6 +12,8 @@ lang: ko
 baseurl: ""
 url: "https://ko.essepost.com/"
 
+google_analytics: G-75NY379NCH
+
 tipue_search:
   include:
     pages: false
