@@ -2,7 +2,7 @@ title: essepost
 author:
   name: essepost
   email: deepseabolt@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
+description: IT, 기술, 최신트렌드, 유용한 정보를 제공
 
 destination: ../first-esse-ko/
 paginate: 10
