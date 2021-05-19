@@ -5,7 +5,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
 
 destination: ../first-esse-ko/
-paginate: 20
+paginate: 10
 
 lang: ko
 
