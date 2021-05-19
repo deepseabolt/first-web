@@ -23,8 +23,8 @@ sd카드를 보면 A1 또는 A2 라고 쓰여있는 제품이 있어요.
 ![img_application]({{site.baseurl}}/assets/img/sdcard/img_application.jpg)  
 _출처 : https://www.sdcard.org/developers/sd-standard-overview/sd-family/_
 
-데이터뿐만 아니라, **앱을 빠른 속도로 실행하고 구동할 수 있다.**
-A1 마이크로SD 카드에서 직접 앱을 로드하고 시작할 수 있다.
+데이터뿐만 아니라, **앱을 빠른 속도로 실행하고 구동할 수 있어요.**
+A1 마이크로SD 카드에서 직접 앱을 로드하고 시작할 수 있습니다.  
 스마트폰용 sd카드 추천합니다.  
 파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있습니다.
 
